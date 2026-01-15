@@ -4,9 +4,12 @@ JavaScript Promise – Notes
 JavaScript by default synchronous hoti hai, yani code line by line execute hota hai.
 Lekin kuch kaam time lete hain, jaise:
 
-Server se data lana
-API call
-Timer (setTimeout)
+
+
+
+
+
+       
 File read
 
 Is situation ko handle karne ke liye Promise use hota hai.
